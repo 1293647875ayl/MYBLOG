@@ -1,6 +1,66 @@
-baseurl = "https://example.com"
-defaultContentLanguage = "en"
-languageCode = "en"
-title = "Hugo Theme Dream"
-theme = "dream"
+baseURL = "http://example.org/"
+theme = "eurozephyr"
 
+defaultContentLanguage = "en"
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    weight = 1
+
+[params]
+  description = "My professional CV"
+
+  # Profile image (path relative to static folder)
+  profileImage = "/images/profile.jpg"
+
+  # Show Europass branding in the sidebar (optional)
+  showEuropassBranding = true
+
+  # Default color theme (references a theme in data/colorschemes.yaml)
+  defaultTheme = "Solarized"
+
+  # Configure layout sections (sections are rendered in the order listed)
+  layout = {sidebar = [
+      "personal_details",
+      "online_profiles",
+      "language_skills",
+      "digital_skills",
+      "hobbies_interests"],main = [
+      "summary",
+      "work_experience",
+      "education",
+      "publications",
+      "projects",
+      "honours_awards"]}
+
+  # Sidebar width (options: narrow, medium, wide)
+  sidebarWidth = "medium"
+
+  # Column gap size (options: small, medium, large)
+  columnGap = "medium"
+
+  # Formatting options
+  [params.formatting]
+    # Name formatting
+    [params.formatting.name]
+      firstName = {size = "text-4xl",color = "text-primary",weight = "font-light"}
+      lastName = {size = "text-4xl",color = "text-primary",weight = "font-bold"}
+      jobTitle = {size = "text-xl",color = "text-secondary",weight = "font-medium"}
+
+    # Font size configuration
+    [params.formatting.fontSizes]
+      heading = "1.5rem"  # Default value for section headings
+      body = "1rem"       # Default value for body text
+      small = "0.875rem"  # Default value for small text
+      sidebarHeading = "1.25rem" # Default for sidebar headings
+
+    # Spacing configuration
+    [params.formatting.spacing]
+      sectionMarginBottom = "2.5rem"  # Default spacing between sections
+      itemMarginBottom = "0.5rem"     # Default spacing between items
+
+    # Fonts to use for headings and body text
+    [params.formatting.fonts]
+      heading = "Inter"
+      body = "Inter"
