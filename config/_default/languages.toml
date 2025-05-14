@@ -1,0 +1,15 @@
+[en]
+languageName = "English"
+weight = 1
+
+[fr]
+languageName = "Français"
+weight = 2
+
+[la]
+languageName = "Lingua Latīna"
+weight = 3
+
+[grc]
+languageName = "Ἑλληνικὴ γλῶσσα"
+weight = 4

@@ -1,0 +1,252 @@
+site_content:
+  title: "Josiah Carberry's CV"
+  job_title: "Professor of Psychoceramics"
+  footer_quote:
+    text: "Dulce et Decorum Est Desipere in Loco"
+    author: "Horace"
+  footer_tagline: "Hurry to your travel agent―tell 'em Carberry sent you."
+
+personal_details:
+  show: true
+  first_name: "Josiah" # Required
+  last_name: "Carberry" # Required
+  profile_image: "/images/profile.jpg" # Profile image path
+  date_of_birth: "1929-01-24" # Required
+  nationality: # Required
+    - "American"
+  gender: "Male" # Optional field
+  place_of_birth: "Providence, United States" # Optional field
+  work_permit: "American" # Optional field
+  contact:
+    email: "josiah.carberry@brown.edu" # Required
+    phone: "+1 555-123-4567" # Required
+    address: # Required
+      street: "69 Brown Street"
+      city: "Providence"
+      postal_code: "02912"
+      country: "United States"
+
+summary:
+  show: true
+  description: |
+    "Professor of Psychoceramics (the study of cracked pots) at [Brown University](https://brown.edu/) since 1929. I am a world-renowned expert in my field with extensive experience in Archaic Greek Architectural Revetments in Connection with Ionian Philology. My research has been recognized with an Ig Nobel Prize for Interdisciplinary Research. I am known for my elusive nature, as I am frequently scheduled to lecture but rarely appear. I established the Josiah S. Carberry Fund 'in memory of my future late wife, Laura,' for the purchase of books 'of which I might or might not approve.'"
+
+work_experience:
+  show: true
+  items:
+    - job_title: "Professor of Psychoceramics"
+      show: true
+      employer: "[Brown University](https://brown.edu/)"
+      description: "Pontificator on the study of cracked pots"
+      location:
+        city: "Providence"
+        country: "United States"
+      start_date: "1929-01-24"
+      # end_date: ""
+      responsibilities:
+        - "Research in the field of cracked pots"
+        - "Scheduled lectures on Friday the 13th and February 29th"
+        - "Maintenance of the Carberry Fund for book acquisitions"
+    - job_title: "Visiting Professor"
+      show: true
+      employer: "Wesleyan University"
+      location:
+        city: "Middletown"
+        country: "United States"
+      start_date: "1930-01-01"
+      end_date: "1935-01-01"
+      responsibilities:
+        - "Extension of psychoceramics research"
+        - "Collaboration with Professor John William Spaeth, Jr."
+        - "Development of interdisciplinary approaches to cracked pot studies"
+    - job_title: "Research Fellow"
+      show: false
+      employer: "Harvard University"
+      location:
+        city: "Cambridge"
+        country: "United States"
+      start_date: "1925-01-01"
+      end_date: "1929-01-01"
+      responsibilities:
+        - "Doctoral research in psychoceramics"
+        - "Assistant to the Chair of Fictional Studies"
+        - "Compilation of research for 'Psychoceramics' book"
+
+education:
+  items:
+    - degree: "PhD" # Required
+      institution: "Harvard University" # Required
+      website: "https://www.harvard.edu" # Optional field
+      location: # Required
+        city: "Cambridge"
+        country: "United States"
+      eqf_level: "EQF Level 8" # Optional field
+      start_date: "1925-01-01" # Required
+      end_date: "1929-01-01" # Required (can be "Present" for ongoing education)
+    - degree: "Bachelor's Degree"
+      institution: "University of Chicago"
+      website: "https://www.uchicago.edu"
+      location:
+        city: "Chicago"
+        country: "United States"
+      eqf_level: "EQF Level 6"
+      start_date: "1921-01-01"
+      end_date: "1925-01-01"
+  show: true
+
+language_skills:
+  show: true
+  mother_tongue: "English"
+  other_languages:
+    - language: "Ancient Greek"
+      listening: "C2"
+      reading: "C2"
+      writing: "C2"
+      spoken_production: "C1"
+      spoken_interaction: "C1"
+    - language: "Latin"
+      listening: "B2"
+      reading: "C1"
+      writing: "B1"
+      spoken_production: "B1"
+      spoken_interaction: "B1"
+
+digital_skills:
+  show: true
+  grid:
+    information_data_literacy:
+      label: "information_and_data_literacy"
+      level: "Advanced"
+    communication_collaboration:
+      label: "communication_and_collaboration"
+      level: "Intermediate"
+    digital_content_creation:
+      label: "digital_content_creation"
+      level: "Foundation"
+    safety:
+      label: "safety"
+      level: "Advanced"
+    problem_solving:
+      label: "problem_solving"
+      level: "Advanced"
+
+communication_interpersonal_skills:
+  show: true
+  items:
+    - skill: "Absence Management"
+      description: "Expert at scheduling appearances and then not showing up"
+      reference: "https://library.brown.edu/info/hay/carberry/"
+    - skill: "Academic Humor"
+      description: "Pioneer in academic pranks and scholarly jokes"
+      reference: "https://en.wikipedia.org/wiki/Josiah_S._Carberry"
+
+conferences_seminars:
+  show: true
+  items:
+    - title: "International Conference on Psychoceramics"
+      date: "1950-06-15"
+      location: "Brown University, Providence, RI"
+      description: "Presented a paper on the latest developments in psychoceramics research."
+    - title: "Symposium on Fictional Archaeology"
+      date: "1948-03-22"
+      location: "University of Atlantis"
+      description: "Keynote speaker on the topic of cracked pot analysis."
+    - title: "Workshop on Ionian Philology"
+      date: "1946-09-10"
+      location: "Athens, Greece"
+
+driving_licence:
+  show: true
+  items:
+    - licence: "None" # or B, A, etc.
+
+hobbies_interests:
+  show: true
+  items:
+    - "Collecting cracked pots"
+    - "Ionian Philology"
+    - "Archaic Greek Architecture"
+    - "Appearing on bulletin boards"
+    - "Sending postcards from exotic locations"
+
+honours_awards:
+  show: true
+  items:
+    - title: "Ig Nobel Prize for Interdisciplinary Research"
+      year: "1991"
+      organization: "Annals of Improbable Research"
+      description: "For pioneering work in the field of psychoceramics, the study of cracked pots"
+    - title: "World's Greatest Traveler"
+      year: "1974"
+      organization: "The New York Times"
+      description: "Featured on the front page of the Sunday travel section"
+    - title: "The Absent-Bodied Professor"
+      year: "1975"
+      organization: "Yankee Magazine"
+      description: "Featured profile in regional publication"
+
+online_profiles:
+  show: true
+  items:
+    - platform: linkedin
+      label: "LinkedIn"
+      url: "https://www.linkedin.com/in/josiah-carberry/"
+    - platform: codeberg
+      label: "Codeberg"
+      url: "https://codeberg.org/jcarberry"
+      icon: "fa-solid fa-icicles"
+    - platform: orcid
+      label: "ORCID"
+      url: "https://orcid.org/0000-0002-1825-0097"
+      icon: "fa-brands fa-orcid"
+    - platform: website
+      label: "Website"
+      url: "https://library.brown.edu/info/hay/carberry/"
+    - platform: other
+      label: "Academic Profile"
+      url: "https://example.com/academic-profile"
+      icon: "fa-solid fa-university"
+    - platform: bluesky
+      label: "Bluesky"
+      url: "https://bsky.app/profile/gbilder.com"
+      icon: "fa-brands fa-bluesky"
+    - platform: signal-messenger
+      label: "Signal"
+      url: "https://signal.me/#eu/f_NPJxbTDvj9y-PlZWjxY9XXVApe-PCDGV15QDHbME7FDx9YY4VB57xT5qM7PGW1"
+      #icon: "fa-brands fa-signal" # Optional custom icon
+
+management_leadership_skills:
+  show: true
+  items:
+    - title: "Founder of Psychoceramics"
+      description: "Established the academic field of cracked pot studies"
+      reference: "https://en.wikipedia.org/wiki/Josiah_S._Carberry"
+    - title: "Carberry Fund Administrator"
+      description: "Created and oversees the fund for book acquisitions at Brown University"
+      reference: "https://library.brown.edu/bookplates/fund.php?account=EN464082"
+
+projects:
+  show: true
+  items:
+    - title: "Psychoceramics: A Comprehensive Study"
+      start_date: "1929-01-01"
+      end_date: "1945-12-31"
+    - title: "Archaic Greek Architectural Revetments"
+      start_date: "1929-03-15"
+      end_date: "1934-09-30"
+    - title: "Ionian Philology Research Initiative"
+      start_date: "1934-10-01"
+      end_date: "1940-06-15"
+
+publications:
+  show: true
+  items:
+    - title: "Psychoceramics"
+      date: "1945-06-15"
+      reference: "Brown University Press, 1313p."
+    - title: "Another Catullus to Another Lesbia"
+      date: "1934-02-01"
+      reference: "Journal of Psychoceramics, 1(1), 1-13."
+    - title: "The Definitive Guide to Cracked Pots"
+      date: "1950-01-01"
+      reference: "Journal of Fictional Archaeology"

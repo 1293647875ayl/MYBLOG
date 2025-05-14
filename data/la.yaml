@@ -1,0 +1,241 @@
+site_content:
+  title: "Curriculum Vitae Iosiae Carberrii"
+  job_title: "Professor Psychoceramicae"
+  footer_quote:
+    text: "Dulce et Decorum Est Desipere in Loco"
+    author: "Horatius"
+  footer_tagline: "Festina ad procuratorem itineris tui―dic eis Carberrium te misisse."
+
+personal_details:
+  show: true
+  first_name: "Iosias"
+  last_name: "Carberrius"
+  profile_image: "/images/profile.jpg"  # Profile image path
+  date_of_birth: "1929-01-24"
+  nationality:
+    - "Americanus"
+  gender: "Masculus"
+  place_of_birth: "Providentia, Civitates Foederatae Americae"
+  work_permit: "Americanus"
+  contact:
+    email: "josiah.carberry@brown.edu"
+    phone: "+1 555-123-4567"
+    address:
+      street: "69 Via Bruna"
+      city: "Providentia"
+      postal_code: "02912"
+      country: "Civitates Foederatae Americae"
+
+summary:
+  show: true
+  description: |
+    "Professor Psychoceramicae (studium ollarum fractarum) apud Universitatem Brunam ab anno MCMXXIX. Sum peritus fama mundi in campo meo cum experientia ampla in Revestimentis Architecturae Graecae Archaicae in Connexione cum Philologia Ionica. Investigatio mea agnita est Premio Ig Nobel pro Investigatione Interdisciplinaria. Notus sum propter naturam meam elusivam, quia frequenter ad lectiones dandas designor sed raro appareo. Institui Fundum Iosiae S. Carberrii 'in memoriam futurae uxoris meae defunctae, Laurae,' ad emptionem librorum 'quos approbare possim vel non.'"
+
+work_experience:
+  show: true
+  items:
+    - job_title: "Professor Psychoceramicae"
+      show: true
+      employer: "Universitas Bruna"
+      location:
+        city: "Providentia"
+        country: "Civitates Foederatae Americae"
+      start_date: "1929-01-24"
+      # end_date: ""
+      responsibilities:
+        - "Investigatio in campo ollarum fractarum"
+        - "Lectiones designatae die Veneris XIII et die Februarii XXIX"
+        - "Administratio Fundi Carberrii pro acquisitione librorum"
+    - job_title: "Professor Visitans"
+      show: true
+      employer: "Universitas Wesleyana"
+      location:
+        city: "Middletonia"
+        country: "Civitates Foederatae Americae"
+      start_date: "1930-01-01"
+      end_date: "1935-01-01"
+      responsibilities:
+        - "Extensio investigationis psychoceramicae"
+        - "Collaboratio cum Professore Ioanne Gulielmo Spaeth, Iuniore"
+        - "Evolutio accessuum interdisciplinarium ad studia ollarum fractarum"
+    - job_title: "Investigator"
+      show: false
+      employer: "Universitas Harvardiana"
+      location:
+        city: "Cantabrigia"
+        country: "Civitates Foederatae Americae"
+      start_date: "1925-01-01"
+      end_date: "1929-01-01"
+      responsibilities:
+        - "Investigatio doctoralis in psychoceramica"
+        - "Assistens Praesidi Studiorum Fictorum"
+        - "Compilatio investigationis pro libro 'Psychoceramica'"
+
+education:
+  items:
+    - degree: "Philosophiae Doctor"
+      institution: "Universitas Harvardiana"
+      website: "https://www.harvard.edu"
+      location:
+        city: "Cantabrigia"
+        country: "Civitates Foederatae Americae"
+      eqf_level: "Gradus EQF VIII"
+      start_date: "1925-01-01"
+      end_date: "1929-01-01"
+    - degree: "Baccalaureus Artium"
+      institution: "Universitas Chicagiensis"
+      website: "https://www.uchicago.edu"
+      location:
+        city: "Chicagum"
+        country: "Civitates Foederatae Americae"
+      eqf_level: "Gradus EQF VI"
+      start_date: "1921-01-01"
+      end_date: "1925-01-01"
+  show: true
+
+language_skills:
+  show: true
+  mother_tongue: "Anglica"
+  other_languages:
+    - language: "Graeca Antiqua"
+      listening: "C2"
+      reading: "C2"
+      writing: "C2"
+      spoken_production: "C1"
+      spoken_interaction: "C1"
+    - language: "Latina"
+      listening: "B2"
+      reading: "C1"
+      writing: "B1"
+      spoken_production: "B1"
+      spoken_interaction: "B1"
+
+digital_skills:
+  show: true
+  grid:
+    information_data_literacy:
+      label: "information_and_data_literacy"
+      level: "Advanced"
+    communication_collaboration:
+      label: "communication_and_collaboration"
+      level: "Intermediate"
+    digital_content_creation:
+      label: "digital_content_creation"
+      level: "Foundation"
+    safety:
+      label: "safety"
+      level: ""
+    problem_solving:
+      label: "problem_solving"
+      level: "Advanced"
+
+communication_interpersonal_skills:
+  show: true
+  items:
+    - skill: "Administratio Absentiarum"
+      description: "Peritus in designandis apparitionibus et numquam apparendo"
+      reference: "https://library.brown.edu/info/hay/carberry/"
+    - skill: "Humor Academicus"
+      description: "Pionarius in iocis academicis et facetiis eruditis"
+      reference: "https://en.wikipedia.org/wiki/Josiah_S._Carberry"
+
+conferences_seminars:
+  show: true
+  items:
+    - title: "Ceremonia Praemii Ig Nobel"
+      year: "1991"
+      location: "Cantabrigia, MA"
+      description: "Receptor Praemii Ig Nobel pro Investigatione Interdisciplinaria"
+      reference: "https://www.improbable.com/ig/winners/#ig1991"
+    - title: "Conferentia Internationalis de Psychoceramica"
+      year: "1955"
+      location: "Providentia, RI"
+      description: "Orator principalis (non adfuit)"
+      reference: "https://library.brown.edu/info/hay/carberry/"
+
+driving_licence:
+  show: true
+  items:
+    - licence: "Nullum" # or B, A, etc.
+
+hobbies_interests:
+  show: true
+  items:
+    - "Collectio ollarum fractarum"
+    - "Philologia Ionica"
+    - "Architectura Graeca Archaica"
+    - "Apparitio in tabulis nuntiorum"
+    - "Missio cartarum postalium ex locis exoticis"
+
+honours_awards:
+  show: true
+  items:
+    - title: "Praemium Ig Nobel pro Investigatione Interdisciplinaria"
+      year: "1991"
+      organization: "Annales Investigationis Improbabilis"
+      description: "Pro opere pionario in campo psychoceramicae, studio ollarum fractarum"
+    - title: "Maximus Viator Mundi"
+      year: "1974"
+      organization: "The New York Times"
+      description: "Praesentatus in prima pagina sectionis itinerariae dominicae"
+    - title: "Professor Corpore Absens"
+      year: "1975"
+      organization: "Yankee Magazine"
+      description: "Profilus praesentatus in publicatione regionali"
+
+management_leadership_skills:
+  show: true
+  items:
+    - title: "Fundator Psychoceramicae"
+      description: "Constituit campum academicum studii ollarum fractarum"
+      reference: "https://en.wikipedia.org/wiki/Josiah_S._Carberry"
+    - title: "Administrator Fundi Carberrii"
+      description: "Creavit et supervisat fundum pro acquisitione librorum apud Universitatem Brunam"
+      reference: "https://library.brown.edu/bookplates/fund.php?account=EN464082"
+
+projects:
+  show: true
+  items:
+    - title: "Psychoceramica: Studium Comprehensivum"
+      start_date: "1929-01-01"
+      end_date: "1945-12-31"
+    - title: "Operimenta Architectonica Graeca Archaica"
+      start_date: "1929-03-15"
+      end_date: "1934-09-30"
+    - title: "Initiativa Investigationis Philologiae Ionicae"
+      start_date: "1934-10-01"
+      end_date: "1940-06-15"
+
+publications:
+  show: true
+  items:
+    - title: "Psychoceramica"
+      year: "1945"
+      reference: "Brown University Press, 1313p."
+    - title: "Alius Catullus ad Aliam Lesbiam"
+      year: "1934"
+      reference: "Classical Weekly"
+    - title: "Guida Definitiva Ollarum Fractarum"
+      year: "1950"
+      reference: "Diarium Archaeologiae Fictae"
+
+online_profiles:
+  show: true
+  items:
+    - platform: linkedin
+      label: "LinkedIn"
+      url: "https://www.linkedin.com/in/josiah-carberry/"
+    - platform: codeberg
+      label: "Codeberg"
+      url: "https://codeberg.org/jcarberry"
+      icon: "fa-solid fa-icicles"
+    - platform: orcid
+      label: "ORCID"
+      url: "https://orcid.org/0000-0002-1825-0097"
+    - platform: website
+      label: "Situs Interretialis"
+      url: "https://library.brown.edu/info/hay/carberry/"
+    - platform: other
+      label: "Profilus Academicus"
+      url: "https://example.com/academic-profile"
+      icon: "fas fa-university"

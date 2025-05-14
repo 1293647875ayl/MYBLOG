@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+theme = "eurozephyr"
+defaultContentLanguage = "en"
+canonifyURLs = true
