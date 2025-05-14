@@ -4,3 +4,6 @@
 [submodule "themes/eurozephyr"]
 	path = themes/eurozephyr
 	url = https://codeberg.org/gbilder/eurozephyr.git
+[submodule "themes/almeida-cv"]
+	path = themes/almeida-cv
+	url = https://github.com/ineesalmeida/almeida-cv.git
