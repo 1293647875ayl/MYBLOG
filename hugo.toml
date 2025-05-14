@@ -7,7 +7,9 @@ defaultContentLanguage = "en"
   [languages.en]
     languageName = "English"
     weight = 1
-
+  [languages.fr]
+    languageName = "Chinese"
+    weight = 2
 [params]
   description = "My professional CV"
 
