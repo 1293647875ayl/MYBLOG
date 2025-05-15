@@ -29,7 +29,7 @@ defaultContentLanguage = "en"
       "online_profiles",
       "language_skills",
       "digital_skills",
-      "hobbies_interests"
+      "兴趣"
     ],main = [
       "summary",
       "work_experience",
